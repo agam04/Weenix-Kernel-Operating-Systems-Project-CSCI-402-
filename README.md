@@ -1,9 +1,5 @@
 # Weenix Kernel — Operating Systems Project (CSCI 402)
 
-## Overview
-
-This repository documents my work on **Weenix**, a Unix-like educational operating system kernel developed as part of **CSCI 402: Operating Systems** at the **University of Southern California**.
-
 ⚠️ **Source Code Notice**
 The kernel source code is **not publicly available** due to course academic integrity and distribution policies. As a result, this repository contains **architecture explanations, screenshots, recordings, and technical write-ups** demonstrating the functionality and design of the implemented kernel components rather than the code itself.
 
